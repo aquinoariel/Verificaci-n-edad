@@ -1,0 +1,27 @@
+-----------------------------------------------------
+Problematica: El usuario quiere saber si tiene edad suficiente para una entrar en un bar
+-----------------------------------------------------
+
+-----------------------------------------------------
+Algoritmo:
+
+Paso 1: Solicitar al usuario que ingrese su edad
+
+Paso 2: Indicar cuales son las edades validas para ingresar al bar(>18 y <60)y con esta información indicar
+al usuario si tiene edad suficiente para su ingreso.
+
+
+-----------------------------------------------------
+
+-----------------------------------------------------
+Pseudocodigo:
+
+Inicio
+    Solicitar al usuario que ingrese su edad
+
+Si tiene entre 18 y 30 años
+    puede ingresar
+Si no tiene entre 18 y 30 años
+    No puede ingresar
+
+-------------------------------------------------------
